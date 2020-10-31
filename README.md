@@ -3,7 +3,7 @@
 
 
 
-![Image of Yfiworth](https://octodex.github.com/images/yfiworth.png)
+![Image of Yfiworth](https://ibb.co/xFzWmQ8)
 
 ## YEARN FINANCE WORTH : is a
 
