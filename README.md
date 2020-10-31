@@ -3,9 +3,7 @@
 
 
 
-<p align="center"><a href="https://yfwfinance.org"><img src="https://ibb.co/D9d7jtj" title="YFIWORTH" alt="Yearn Finance Worth"></a>
-<!-- [![YFIWORTH](https://ibb.co/D9d7jtj)](https://kush.finance) --></p>
-
+![Image of Yfiworth](https://octodex.github.com/images/yfiworth.png)
 
 ## YEARN FINANCE WORTH : is a
 
