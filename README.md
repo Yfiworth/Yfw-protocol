@@ -1,9 +1,9 @@
-# kush.finance #
-## A whale DeFi Fund + Governance + Wrapped NFT Tokens ##
+# yearn finance worth #
+## A whale DeFi Fund + Governance ##
 
 
 
-![Image of Yfinace](https://github.com/Yfiworth/Yfw-protocol/blob/main/yfiworth.png)
+![Image of Yfinace](https://github.com/Yfiworth/Yfw-protocol/blob/main/yfiworth.png)<p align="center"><a href="https://yfwfinance.com">
 
 ## YEARN FINANCE WORTH : is a
 
@@ -12,23 +12,20 @@
 
 - A Governance Token represented by YFWV (YfiworthV) that turns individual traders into a collective & decentralized Parliament.:hammer:
 
-- A Wrapped NFT Token represented by kOG (kushOG) it will be used to convert kushOG [ERC-20] into an Wrapped NFT ERC 1155 with unique contracts and limited edition supply of collectibles. :art:
-
-
 
 -------------
 ## Token Data ##
 
 - ### Name: YEARN FINANCE WORTH 
-- Symbol: **kSEED**
-- Total/Max Supply: **420,000 kSEED**
-- 31.500 kSEED to influencers/direct investors/community managers
-- 42.000 kSEED to development
-- 84.000 kSEED as giveaway rewards & community support / FULLY DISTRIBUTED
-- 262500 kSEED Liquidity Locked on Uniswap LP 6 months.
-- Current APY approx 300-350%
+- Symbol: **YFW**
+- Total/Max Supply: **28,000 YFW**
+- 5040 YFW to initial investors/community managers
+- 4200 YFW to team/marketing
+- 5600 YFW as giveaway rewards & airdrops 
+- 3640 YFW Liquidity on Uniswap
+- 8400 YFW Staking rewards
 
-- ⚜️Contract: `0x3f09400313e83d53366147e3ea0e4e2279d80850`
-- ⚜️Uniswap Contract: https://uniswap.info/pair/0xdcff4c70131b476595b449c7db17cd92663aa513
-- ⚜️Contract Etherscan:  https://etherscan.io/token/0x3f09400313e83d53366147e3ea0e4e2279d80850
+
+- ⚜️Contract: `0x36E36A7a576F07997B5931b440369989943180c2`
+- ⚜️Contract Etherscan:  https://etherscan.io/token/0x36E36A7a576F07997B5931b440369989943180c2
 -------------
