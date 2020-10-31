@@ -3,7 +3,7 @@
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yfinace](https://ibb.co/VNKV9Py)
 
 ## YEARN FINANCE WORTH : is a
 
