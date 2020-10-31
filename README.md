@@ -3,7 +3,7 @@
 
 
 
-![Image of Yfinace](https://ibb.co/VNKV9Py)
+![Image of Yfinace](https://github.com/Yfiworth/Yfw-protocol/blob/main/yfiworth.png)
 
 ## YEARN FINANCE WORTH : is a
 
